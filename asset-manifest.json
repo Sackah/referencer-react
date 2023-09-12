@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/referencer-react/static/css/main.073c9b0a.css",
+    "main.js": "/referencer-react/static/js/main.ee3a03fe.js",
+    "static/media/logo.svg": "/referencer-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/referencer-react/index.html",
+    "main.073c9b0a.css.map": "/referencer-react/static/css/main.073c9b0a.css.map",
+    "main.ee3a03fe.js.map": "/referencer-react/static/js/main.ee3a03fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee3a03fe.js"
+  ]
+}
